@@ -1,4 +1,4 @@
-<h1>2424 - FUNDAMENTOS DE PROGRAMACION (F) UEA-L-UFB-026-F</h1>
+<h1> FUNDAMENTOS DE PROGRAMACION (F) UEA-L-UFB-026-F</h1>
 
 <h3>Repositorio de código fuente utilizado en la Asignatura Fundamentos de Programación</h3>
 
