@@ -1,5 +1,9 @@
-# FUNDAMENTOS DE PROGRAMACION (F) UEA-L-UFB-026-F
-#Repositorio de código fuente utilizado en la Asignatura Fundamentos de Programación
-#Institución: Universidad Estatal Amazónica
-#Carrera: Ingeniería en Tecnologías de la Información y Comunicación
-#Nombre:Kevin Colcha
+<h1>2424 - FUNDAMENTOS DE PROGRAMACION (F) UEA-L-UFB-026-F</h1>
+
+<h3>Repositorio de código fuente utilizado en la Asignatura Fundamentos de Programación</h3>
+
+<p>
+    <strong>Institución: </strong>Universidad Estatal Amazónica <br>
+    <strong>Carrera: </strong>Ingeniería en Tecnologías de la Información y Comunicación <br>
+    <strong>Nombre: </strong>Kevin Colcha. <br>
+</p>
